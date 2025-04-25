@@ -1,2 +1,2 @@
-# F-PREM-UM
+# F-PREMİUM
 Premium extra fonksiyonlu pentest aracı.
