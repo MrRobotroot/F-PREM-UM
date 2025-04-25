@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/wVVZYEa.png" alt="Tool Banner" width="600"/>
+  <img src="https://imgur.com/wVVZYEa.png" alt="Tool Banner" width="600"/>
 </p>
 
 <p align="center">
@@ -57,15 +57,6 @@
 🛠️ HSTS support tester – HSTS desteği ve yapılandırmasını analiz eder
 
 ℹ️ Araç hakkında – Kullanım bilgileri, versiyon ve geliştirici detayları
-
-❌ Çıkış – Programı sonlandırır
----
-
-## 🖼️ Ekran Görüntüsü
-
-<p align="center">
-  <img src="https://kendi-linkin.com/screenshot1.png" width="600" alt="Tool Screenshot">
-</p>
 
 ---
 
