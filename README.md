@@ -15,7 +15,6 @@
 ---
 
 <h2 align="center">🚀 <b>ÖZELLİKLER</b></h2>
-- 🌐 **SATIN ALIM İÇİN** – tg:MrRobotroot
 - 🌐 **Subdomain tarayıcı** – Alt alan adlarını tespit eder  
 - 🔍 **Admin panel bulucu** – Yönetici giriş panellerini brute force yöntemiyle arar  
 - ⚡ **Hızlı port tarayıcı** – Hedef IP’deki açık portları listeler  
