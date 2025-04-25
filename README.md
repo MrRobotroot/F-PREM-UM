@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://imgur.com/wVVZYEa.jpg" alt="Tool Banner" width="600"/>
+  <img src="https://i.imgur.com/a3Fq2iG.jpeg" alt="Tool Banner" width="600"/>
 </p>
 
 <p align="center">
