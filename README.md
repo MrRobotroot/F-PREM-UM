@@ -37,3 +37,11 @@
 - 🏷️ **Host header injection tester** – Host header açıklıklarını denetler  
 - 🛠️ **HSTS support tester** – HSTS desteği ve yapılandırmasını analiz eder  
 - ℹ️ **Araç hakkında** – Kullanım bilgileri, versiyon ve geliştirici detayları  
+
+<hr>
+
+<h3 align="center">💰 SATIN ALMA & DESTEK</h3>
+<p align="center">
+  📩 Telegram: <a href="https://t.me/MrRobotroot">@MrRobotroot</a><br>
+  💬 Destek, öneri veya özel istekleriniz için ulaşabilirsiniz.
+</p>
